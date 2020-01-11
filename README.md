@@ -1,4 +1,4 @@
-#Dice Roller#
+# Dice Roller #
 
 A Simple ascii graphic dice rolling simulator. 
 
